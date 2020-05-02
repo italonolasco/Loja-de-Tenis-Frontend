@@ -35,7 +35,7 @@ Para rodar a aplicação utiliza-se o comando "yarn start".
 Ao adicionar um item ao carrinho, automaticamente, através do Redux, essa informação será propagada pela aplicação, aumentando o número de itens no Header "Meu Carrinho".
 Modificações realizadas no carrinho, como aumentar ou diminuir a quantidade de um item, também são propagadas no restante da aplicação.
 
-Um exemplo de todas as ações é mostrado neste gif.
+Um exemplo de todas as ações da aplicação é mostrado no gif abaixo.
 
 ![](example.gif)
 
